@@ -16,3 +16,8 @@ explore: hadcm3_crop_data {
   label: "Effects of climate change on global food production"
 
 }
+
+explore: impact_of_co2 {
+  label: "Impacts of CO2 on Crop Yield Changes by Scenario"
+
+}
